@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello,%20I'm%20Ji-won%20Park&fontSize=50&fontAlignY=35&animation=twinkling&desc=Game%20%26%20Backend%20Developer&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello,%20I'm%20Ji-won%20Park&fontSize=50&fontAlignY=35&animation=twinkling&desc=Game%20and%20Backend%20Developer&descAlignY=55)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
