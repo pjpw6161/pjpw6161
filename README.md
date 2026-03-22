@@ -28,15 +28,11 @@
 ## 📌 Projects
 | 프로젝트 | 핵심 내용 | 주요 기술 |
 | :--- | :--- | :--- |
-| **🎮 Unity 팀 프로젝트** | 플레이어 시스템, 애니메이션, 구조 설계 및 협업 | `Unity`, `C#` |
-| **🧩 C++ 게임 시스템** | 엔진 레벨 객체지향 기반 시스템 설계 및 Unity 구조 분석 | `C++` |
-| **🕵️ AI 추리 게임** | LLM 기반 추리 시스템, PostgreSQL+pgvector 활용 | `Spring Boot`, `React` |
-| **🏪 팝업스토어 시뮬레이션** | Redis 상태 관리, Kafka/Spark 실시간 데이터 파이프라인 | `Kafka`, `Redis` |
-
-<div align="right">
-  <b><a href="https://github.com/pjpw6161/GAECO_PROJECT">👉 팝업스토어 프로젝트 자세히 보기</a></b>
-</div>
-
+| [**🎮 Unity 팀 프로젝트**](https://github.com/pjpw6161/Dead-Lock) | 엔진 레벨 객체지향 기반 시스템 설계 및 Unity 구조 분석 | `Unity`, `C#` |
+| [**🧩 C++ 게임 시스템**](https://github.com/pjpw6161/DX11-TeamProject-Game) | 플레이어 시스템, 애니메이션, 구조 설계 및 협업 | `C++` |
+| [**🕵️ AI 추리 게임**](https://github.com/pjpw6161/Hong_Yeon) | LLM 기반 추리 시스템, PostgreSQL+pgvector 활용 | `Spring Boot`, `React` |
+| [**🌱 GAECO: 게이미피케이션 자기계발**](https://github.com/pjpw6161/GAECO_PROJECT) | 목표 달성을 퀘스트로 연동해 시각적 피드백을 제공하는 게임형 웹 서비스 | `Spring Boot`, `Phaser` |
+| [**🏪 팝업스토어 시뮬레이션**](.) | Redis 상태 관리, Kafka/Spark 실시간 데이터 파이프라인 | `Kafka`, `Redis` |
 <br/>
 
 ## 📊 GitHub Stats
