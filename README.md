@@ -32,7 +32,7 @@
 | [**🧩 C++ 게임 시스템**](https://github.com/pjpw6161/DX11-TeamProject-Game) | 플레이어 시스템, 애니메이션, 구조 설계 및 협업 | `C++` |
 | [**🕵️ AI 추리 게임**](https://github.com/pjpw6161/Hong_Yeon) | LLM 기반 추리 시스템, PostgreSQL+pgvector 활용 | `Spring Boot`, `React` |
 | [**🌱 GAECO: 게이미피케이션 자기계발**](https://github.com/pjpw6161/GAECO_PROJECT) | 목표 달성을 퀘스트로 연동해 시각적 피드백을 제공하는 게임형 웹 서비스 | `Spring Boot`, `Phaser` |
-| [**🏪 팝업스토어 시뮬레이션**](.) | Redis 상태 관리, Kafka/Spark 실시간 데이터 파이프라인 | `Kafka`, `Redis`, `Docker` , `CI/CD` |
+| [**🏪 팝업스토어 시뮬레이션**](.) | Redis 상태 관리, Kafka/Spark 실시간 데이터 파이프라인 |  `Redis`, `Docker` , `CI/CD` |
 <br/>
 
 ## 📊 GitHub Stats
