@@ -35,17 +35,4 @@
 | [**🏪 Bubble-Pop-Up: 팝업스토어 시뮬레이션**](https://github.com/pjpw6161/Bubble-Pop-Up) | Redis 상태 관리, Spark 실시간 데이터 파이프라인 |  `Redis`, `Docker` , `CI/CD` |
 <br/>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pjpw6161&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&bg_color=0d1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjpw6161&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff&bg_color=0d1117" height="150" alt="top langs graph"  />
-</div>
 
-<br/>
-
-## 📫 Contact
-<div align="center">
-  <a href="mailto:pjpw6161@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
